@@ -1,0 +1,13 @@
+"set paste
+set nocompatible
+set incsearch
+set title
+set number
+set hlsearch
+set showmatch
+set shiftwidth=4
+set tabstop=4
+set expandtab
+set ruler
+set ffs=unix
+set background=dark
